@@ -1,0 +1,39 @@
+{
+    "1691706918133652:2739588": {
+        "IFileManager": {
+            "path": "Files/File_1691706918133652_2739588"
+        }
+    },
+    "1691706918135875:2739591": {
+        "IResourceController": {
+            "name": "mouth",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691706918135884:2739592",
+            "fileId": "1691706918133652:2739588",
+            "originalId": "1691706918166640:2739599",
+            "publicId": "1691706918544858:2739677",
+            "expected_hash": "2026bf07c9410b39ca54c8eac8ff6ac1"
+        },
+        "IResourceManager": {
+            "uid": "1691706918135884:2739592",
+            "name": "Files/File_1691706918133652_2739588",
+            "flags": 1
+        }
+    },
+    "1691706918166640:2739599": {
+        "IFileManager": {
+            "path": "Files/File_1691706918166640_2739599.lsmat"
+        }
+    },
+    "1691706918544858:2739677": {
+        "IResourceController": {
+            "public": {
+                "path": "mouth.lsmat",
+                "hash": "1289e954afff445c3bf21d4f10a60744"
+            }
+        }
+    }
+}

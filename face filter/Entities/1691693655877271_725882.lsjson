@@ -1,0 +1,72 @@
+{
+    "1691693655871437:725878": {
+        "IFileManager": {
+            "path": "Files/File_1691693655871437_725878.jpg"
+        }
+    },
+    "1691693655877271:725882": {
+        "IResourceController": {
+            "name": "download (2)",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691693655878015:725883",
+            "fileId": "1691693655871437:725878",
+            "originalId": "1691693655878466:725888",
+            "publicId": "1691693655901846:725890",
+            "expected_hash": "17955499c99553882352a811f9805ada",
+            "additional": {
+                "originHash": "17955499c99553882352a811f9805ada"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691693655878015:725883",
+            "name": "Files/File_1691693655871437_725878.jpg",
+            "flags": 1
+        }
+    },
+    "1691693655878015:725883": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "desiredSettings": {
+                "isCompressed": "true",
+                "level": "3",
+                "subtype": "9",
+                "type": "0"
+            },
+            "infos": {
+                "compressedRAM": "201300",
+                "compressedSize": "5175",
+                "extension": "jpg",
+                "originalRAM": "201300",
+                "originalSize": "5175",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1691693655890499:725889"
+        }
+    },
+    "1691693655878466:725888": {
+        "IFileManager": {
+            "path": "Files/File_1691693655878466_725888.jpg"
+        }
+    },
+    "1691693655890499:725889": {
+        "IFileManager": {
+            "path": "Files/File_1691693655890499_725889.jpg"
+        }
+    },
+    "1691693655901846:725890": {
+        "IResourceController": {
+            "public": {
+                "path": "download (2).jpg",
+                "hash": "17955499c99553882352a811f9805ada"
+            }
+        }
+    }
+}

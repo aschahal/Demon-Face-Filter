@@ -1,0 +1,79 @@
+{
+    "1691709250534223:3119599": {
+        "IFileManager": {
+            "path": "Files/File_1691709250534223_3119599.pvr"
+        }
+    },
+    "1691709250539222:3119600": {
+        "IResourceController": {
+            "name": "demon_horns-removebg-preview",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691709250548243:3119603",
+            "fileId": "1691709250534223:3119599",
+            "originalId": "1691709250548709:3119608",
+            "publicId": "1691709250610117:3119615",
+            "expected_hash": "c09d1425c82445bd9e8682329421f2d3",
+            "additional": {
+                "originHash": "a3599140a4f0966b5bd1ac2ee7cc01d9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1691709250548243:3119603",
+            "name": "Files/File_1691709250534223_3119599.png",
+            "flags": 1
+        }
+    },
+    "1691709250548243:3119603": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "a3599140a4f0966b5bd1ac2ee7cc01d9"
+                    },
+                    "v": "1691709251546121:3119919"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "58000",
+                "compressedSize": "16544",
+                "extension": "png",
+                "originalRAM": "464000",
+                "originalSize": "76186",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1691709250563849:3119609"
+        }
+    },
+    "1691709250548709:3119608": {
+        "IFileManager": {
+            "path": "Files/File_1691709250548709_3119608.png"
+        }
+    },
+    "1691709250563849:3119609": {
+        "IFileManager": {
+            "path": "Files/File_1691709250563849_3119609.png"
+        }
+    },
+    "1691709250610117:3119615": {
+        "IResourceController": {
+            "public": {
+                "path": "demon_horns-removebg-preview.png",
+                "hash": "a3599140a4f0966b5bd1ac2ee7cc01d9"
+            }
+        }
+    },
+    "1691709251546121:3119919": {
+        "IFileManager": {
+            "path": "Files/File_1691709251546121_3119919.pvr"
+        }
+    }
+}

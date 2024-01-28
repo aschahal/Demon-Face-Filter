@@ -1,0 +1,33 @@
+{
+    "1691689316715496:53190": {
+        "IFileManager": {
+            "path": "Files/File_1691689316715496_53190.js"
+        }
+    },
+    "1691689316718475:53191": {
+        "IResourceController": {
+            "name": "demon",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1691689316718524:53192",
+            "fileId": "1691689316715496:53190",
+            "publicId": "1691689316730737:53199",
+            "expected_hash": "93a0ac99dd662c8baf8ff0e8948c888f"
+        },
+        "IResourceManager": {
+            "uid": "1691689316718524:53192",
+            "name": "Files/File_1691689316715496_53190.js",
+            "flags": 1
+        }
+    },
+    "1691689316730737:53199": {
+        "IResourceController": {
+            "public": {
+                "path": "demon.js",
+                "hash": "93a0ac99dd662c8baf8ff0e8948c888f"
+            }
+        }
+    }
+}
